@@ -12,6 +12,8 @@
 4. Commit your changes
 5. Push the branch and open a PR
 
+Leave us a star ⭐🤩
+
 ## Discussions
 You must answered two questions in **discussions** section. Please keep an eye on your mentions
 

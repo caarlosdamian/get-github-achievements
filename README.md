@@ -20,6 +20,5 @@ You must answered two questions in **discussions** section. Please keep an eye o
 ## Profiles with github achievements
 
 - https://github.com/amendezm
-- https://github.com/cteyr
 - https://github.com/caarlosdamian
 - https://github.com/pewpasta
